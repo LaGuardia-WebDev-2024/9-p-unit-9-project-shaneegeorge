@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://pics.craiyon.com/2023-12-20/wmp3EHwCQfGfeSsQvUQX3w.webp");
   text-align: center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
   margin: auto;
    font-family: "Poetsen One", serif;
 }
